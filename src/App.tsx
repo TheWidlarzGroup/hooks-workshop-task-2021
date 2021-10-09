@@ -1,12 +1,7 @@
-import React from 'react';
-import './App.css';
+import React from "react";
 
 function App() {
-  return (
-    <div >
-      HOOKS WORKSHOP
-    </div>
-  );
+  return <div>HOOKS WORKSHOP</div>;
 }
 
 export default App;
